@@ -1,0 +1,2 @@
+# Z97k-4790K-OC-EFI
+EFI by OpenCore-0.8.0-RELEASE
